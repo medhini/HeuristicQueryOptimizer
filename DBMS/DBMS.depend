@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1447302920 source:/home/medhini/Database_Management_System/DBMS/main.cpp
+	<stdio.h>
+	<iostream>
+	<bits/stdc++.h>
+	<ctype.h>
+	"optimizeOperations.h"
+	"parseQuery.h"
+	"acceptDatabase.h"
+	"display.h"
+
+1446320202 source:/home/medhini/Database_Management_System/DBMS/Partition.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"globals.h"
+
+1446008477 /home/medhini/Database_Management_System/DBMS/split.h
+
+1446234879 /home/medhini/Database_Management_System/DBMS/Partition.h
+
+1447180675 source:/home/medhini/Database_Management_System/DBMS/makeRelationSchema.cpp
+	<stdio.h>
+	<iostream>
+	<bits/stdc++.h>
+	"globals.h"
+
+1447180988 source:/home/medhini/Database_Management_System/DBMS/acceptDatabase.cpp
+	<stdio.h>
+	<iostream>
+	<bits/stdc++.h>
+	<ctype.h>
+	"makeRelationSchema.h"
+	"globals.h"
+
+1446319702 /home/medhini/Database_Management_System/DBMS/makeRelationSchema.h
+
+1446231343 /home/medhini/Database_Management_System/DBMS/acceptDatabase.h
+
+1447302782 /home/medhini/Database_Management_System/DBMS/globals.h
+
+1447299283 /home/medhini/Database_Management_System/DBMS/optimizeSelect.h
+	"globals.h"
+
+1447299404 source:/home/medhini/Database_Management_System/DBMS/optimizeSelect.cpp
+	<stdio.h>
+	<iostream>
+	<bits/stdc++.h>
+	<ctype.h>
+	"globals.h"
+
+1446846267 /home/medhini/Database_Management_System/DBMS/parseQuery.h
+
+1447308559 source:/home/medhini/Database_Management_System/DBMS/parseQuery.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"globals.h"
+
+1447307466 source:/home/medhini/Database_Management_System/DBMS/display.cpp
+	<stdio.h>
+	<iostream>
+	<bits/stdc++.h>
+	<ctype.h>
+	"globals.h"
+	"optimizeOperations.h"
+
+1447230705 /home/medhini/Database_Management_System/DBMS/display.h
+	"globals.h"
+
+1447300526 /home/medhini/Database_Management_System/DBMS/optimizeOperations.h
+	"globals.h"
+
+1447308624 source:/home/medhini/Database_Management_System/DBMS/optimizeOperations.cpp
+	<stdio.h>
+	<iostream>
+	<bits/stdc++.h>
+	<ctype.h>
+	"globals.h"
+

@@ -1,0 +1,6 @@
+#ifndef ACCEPTDATABASE_H_INCLUDED
+#define ACCEPTDATABASE_H_INCLUDED
+
+void acceptDatabase();
+
+#endif // ACCEPTDATABASE_H_INCLUDED

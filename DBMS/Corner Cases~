@@ -1,0 +1,6 @@
+select * from a where s=10 //LAST OPTIMIZATION FAILS
+select * from a
+select * from a where s=d //s and d from a (inner join)
+
+use set for attributes. (avoid repititon of project attribues)
+handle why SAME RELATION NAME ADDED TWICE
